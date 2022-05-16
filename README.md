@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bless Kpontsu
 - 👀 I am a full stack developer and currently at Kauri Africa
-- 🌱 I work with Laravel and Reactjs
+- 🌱 I work on Laravel and Reactjs projects
 - 💞️ I am up for collaborations.
 - 📫 You can reach me on enquiries@blesskpontsu.com
 
