@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Bless Kpontsu
-- 👀 I am a front end developer. 
-- 🌱 I work work with Nodejs React and Javascript Projects
+- 👀 I am a full stack developer and currently at Kauri Africa
+- 🌱 I work with Laravel and Reactjs
 - 💞️ I am up for collaborations.
-- 📫 You can reach me on blesskpontsu@gmail.com
+- 📫 You can reach me on enquiries@blesskpontsu.com
 
 <!---
 blesskpontsu/blesskpontsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
